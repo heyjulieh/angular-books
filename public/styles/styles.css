@@ -1,0 +1,19 @@
+.jumbotron {
+  background-image: url('/public/images/fallingvectorrainbow_bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #EEE;
+}
+.jumbotron .container {
+  height: 350px;
+}
+
+.inline-header {
+  display: inline-block;
+  vertical-align: baseline;
+  margin-right: 12px;
+}
+
+.hidden {
+  display: none;
+}
