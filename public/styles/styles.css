@@ -42,7 +42,6 @@ h3 {
 h4 {
   font-family: 'Questrial', serif;
   color: white;
-
 }
 
 .jumbotron .container {
@@ -84,4 +83,9 @@ a:hover {
   font-family: 'News Cycle', sans-serif;
   text-decoration: overline;
   color: lightgreen;
+}
+
+
+span {
+  font-size: 15px;
 }
