@@ -2,10 +2,53 @@
   background-image: url('/public/images/fallingvectorrainbow_bg.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-  color: #EEE;
+  color: white;
 }
+
+body {
+  background-color: black;
+  color: white;
+}
+
+.panel-body {
+  background-color: black;
+  color: white;
+  border: 0px black;
+}
+
+.panel-default {
+  border: none;
+}
+
+
+.panel-footer{
+  background-color: black;
+  color: white;
+}
+
+legend {
+  color: white;
+  font-family: 'Fredoka One', cursive;
+}
+
+h1 {
+  font-family: 'Fredoka One', cursive;
+}
+
+h3 {
+  font-family: 'Questrial', serif;
+}
+
+h4 {
+  font-family: 'Questrial', serif;
+  color: white;
+
+}
+
 .jumbotron .container {
-  height: 350px;
+  height: 300px;
+  width: 700px;
+  background-color: black;
 }
 
 .inline-header {
@@ -16,4 +59,29 @@
 
 .hidden {
   display: none;
+}
+
+.btn-primary {
+  margin-left: 111%;
+}
+
+.list-group-item {
+  font-size: 15px;
+  background-color: black;
+  color: white;
+  border: none;
+}
+
+a {
+  font-size: 15px;
+  font-family: 'News Cycle', sans-serif;
+  font-size: 20px;
+  color: lightyellow;
+}
+
+a:hover {
+  font-size: 20px;
+  font-family: 'News Cycle', sans-serif;
+  text-decoration: overline;
+  color: lightgreen;
 }
